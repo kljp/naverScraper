@@ -1,0 +1,128 @@
+[INFO  - 2017-10-20T01:37:12.014Z] GhostDriver - Main - running on port 59152
+[INFO  - 2017-10-20T01:37:15.420Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-20T01:37:15.420Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.customHeaders:  - {}
+[INFO  - 2017-10-20T01:37:15.420Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-20T01:37:15.421Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 33c02a70-b537-11e7-b3de-5769fbdc5984
+[ERROR - 2017-10-20T01:37:16.612Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - msg: TypeError: null is not an object (evaluating 'this._oPlayer.attach')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:37:16.613Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - stack:
+  _initVariables (http://static.news.naver.net/pnews/resources/20171017_190226/js/news.service.js:1)
+  $init (http://static.news.naver.net/pnews/resources/20171017_190226/js/news.service.js:1)
+  typeClass (http://static.news.naver.net/pnews/resources/20171017_190226/js/news.jindo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:37:18.381Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - msg: TypeError: null is not an object (evaluating 'da_ua.match(/Version\/([0-9\.]+)/i)[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:37:18.382Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - stack:
+  searchBrowserVersion (http://tveta.naver.net/libs/assets/js/pc/main/min/pc.veta.core.min.js?20170309:1)
+  init (http://tveta.naver.net/libs/assets/js/pc/main/min/pc.veta.core.min.js?20170309:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:37:18.384Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - msg: TypeError: null is not an object (evaluating 'da_ua.match(/Version\/([0-9\.]+)/i)[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:37:18.384Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - stack:
+  searchBrowserVersion (http://tveta.naver.net/libs/assets/js/mo/main/min/mo.veta.core.min.js?20170309:1)
+  init (http://tveta.naver.net/libs/assets/js/mo/main/min/mo.veta.core.min.js?20170309:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:37:18.384Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'new Nimp')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:37:18.385Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - stack:
+  global code (http://veta.naver.com/fxshow?su=SU10000&sid1=000&oid=020:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:37:18.388Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'naver_corp_da.loadScript("http://tveta.naver.net/libs/assets/js/pc/sub/min/submovie_autoplay.min.js?20170308", 
+		initAd)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:37:18.388Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - stack:
+  lazyLoading (http://veta.naver.com/fxshow?su=SU10000&sid1=000&oid=020:39)
+  onload (http://veta.naver.com/fxshow?su=SU10000&sid1=000&oid=020:19)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:22.346Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - msg: TypeError: null is not an object (evaluating 'this._oPlayer.attach')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:22.346Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - stack:
+  _initVariables (http://static.news.naver.net/pnews/resources/20171017_190226/js/news.service.js:1)
+  $init (http://static.news.naver.net/pnews/resources/20171017_190226/js/news.service.js:1)
+  typeClass (http://static.news.naver.net/pnews/resources/20171017_190226/js/news.jindo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:32.210Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - msg: TypeError: null is not an object (evaluating 'this._oPlayer.attach')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:32.210Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - stack:
+  _initVariables (http://static.news.naver.net/pnews/resources/20171017_190226/js/news.service.js:1)
+  $init (http://static.news.naver.net/pnews/resources/20171017_190226/js/news.service.js:1)
+  typeClass (http://static.news.naver.net/pnews/resources/20171017_190226/js/news.jindo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:32.424Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - msg: TypeError: null is not an object (evaluating 'da_ua.match(/Version\/([0-9\.]+)/i)[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:32.424Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - stack:
+  searchBrowserVersion (http://tveta.naver.net/libs/assets/js/pc/main/min/pc.veta.core.min.js?20170309:1)
+  init (http://tveta.naver.net/libs/assets/js/pc/main/min/pc.veta.core.min.js?20170309:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:32.425Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - msg: TypeError: null is not an object (evaluating 'da_ua.match(/Version\/([0-9\.]+)/i)[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:32.425Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - stack:
+  searchBrowserVersion (http://tveta.naver.net/libs/assets/js/mo/main/min/mo.veta.core.min.js?20170309:1)
+  init (http://tveta.naver.net/libs/assets/js/mo/main/min/mo.veta.core.min.js?20170309:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:32.426Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'new Nimp')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:32.426Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - stack:
+  global code (http://veta.naver.com/fxshow?su=SU10000&sid1=000&oid=421:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:32.429Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'naver_corp_da.loadScript("http://tveta.naver.net/libs/assets/js/pc/sub/min/submovie_autoplay.min.js?20170308", 
+		initAd)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:32.429Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - stack:
+  lazyLoading (http://veta.naver.com/fxshow?su=SU10000&sid1=000&oid=421:39)
+  onload (http://veta.naver.com/fxshow?su=SU10000&sid1=000&oid=421:19)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:33.350Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - msg: TypeError: null is not an object (evaluating 'da_ua.match(/Version\/([0-9\.]+)/i)[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:33.350Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - stack:
+  searchBrowserVersion (http://tveta.naver.net/libs/assets/js/pc/main/min/pc.veta.core.min.js?20170309:1)
+  init (http://tveta.naver.net/libs/assets/js/pc/main/min/pc.veta.core.min.js?20170309:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:33.350Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - msg: TypeError: null is not an object (evaluating 'da_ua.match(/Version\/([0-9\.]+)/i)[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:33.351Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - stack:
+  searchBrowserVersion (http://tveta.naver.net/libs/assets/js/mo/main/min/mo.veta.core.min.js?20170309:1)
+  init (http://tveta.naver.net/libs/assets/js/mo/main/min/mo.veta.core.min.js?20170309:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:33.351Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'new Nimp')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:33.352Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - stack:
+  global code (http://veta.naver.com/fxshow?su=SU10000&sid1=000&oid=421:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:33.355Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'naver_corp_da.loadScript("http://tveta.naver.net/libs/assets/js/pc/sub/min/submovie_autoplay.min.js?20170308", 
+		initAd)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-20T01:38:33.355Z] Session [33c02a70-b537-11e7-b3de-5769fbdc5984] - page.onError - stack:
+  lazyLoading (http://veta.naver.com/fxshow?su=SU10000&sid1=000&oid=421:39)
+  onload (http://veta.naver.com/fxshow?su=SU10000&sid1=000&oid=421:19)
+
+  phantomjs://platform/console++.js:263 in error

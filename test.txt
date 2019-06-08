@@ -1,0 +1,2 @@
+#wrap > table > tbody > tr > td.content > div > div.ranking_top3.ranking_top3_v2 > ol > li.num1 > dl > dt > a
+#wrap > table > tbody > tr > td.content > div > div.ranking_top3.ranking_top3_v2 > ol > li.num2 > dl > dt > a
